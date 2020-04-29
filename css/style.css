@@ -324,7 +324,7 @@ a:focus, a:hover, .btn:focus, .btn:hover, button:focus, button:hover {
 }
 .header_aera .navbar-collapse .navbar-nav.navbar-right li a {
   font: 700 14px/100px "Roboto", sans-serif;
-  color: #222222;
+  color: #1d99cc; /*#222222;*/
   text-transform: uppercase;
   padding: 0;
   padding-left: 30px;
@@ -573,7 +573,7 @@ a:focus, a:hover, .btn:focus, .btn:hover, button:focus, button:hover {
   text-align: center;
   position: relative;
   z-index: 1;
-  padding-bottom: 70px;
+  padding-bottom: 30px;
 }
 .banner_area:after {
   content: "";
@@ -590,7 +590,7 @@ a:focus, a:hover, .btn:focus, .btn:hover, button:focus, button:hover {
   color: #fff;
   font: 400 40px "Oswald", sans-serif;
   text-transform: uppercase;
-  padding-top: 85px;
+  padding-top: 35px;
 }
 .banner_area .breadcrumb {
   background-color: transparent;
@@ -760,6 +760,7 @@ a:focus, a:hover, .btn:focus, .btn:hover, button:focus, button:hover {
 }
 .our_feature_area .feature_row .feature_content .subtittle {
   padding-bottom: 40px;
+  padding-top: 10px;
 }
 .our_feature_area .feature_row .feature_content .media {
   padding-bottom: 15px;
@@ -924,11 +925,11 @@ a:focus, a:hover, .btn:focus, .btn:hover, button:focus, button:hover {
 .our_services_tow .architecture_area .portfolio_filter_2 ul li {
   float: left;
   list-style: none;
-  width: 16.666667%;
+  width: 14.285714%;
   text-align: center;
   transition: all 300ms linear 0s;
   border-right: 1px solid #dfe3e4;
-  height: 150px;
+  height: 120px;
 }
 .our_services_tow .architecture_area .portfolio_filter_2 ul li:last-child {
   border-right: 0;
@@ -967,6 +968,15 @@ a:focus, a:hover, .btn:focus, .btn:hover, button:focus, button:hover {
   font: 400 14px/26px "Roboto", sans-serif;
   color: #555555;
   padding-bottom: 30px;
+}
+.our_services_tow .architecture_area .portfolio_2 .single_facilities .who_we_area ul{
+  list-style-position: inside;
+  list-style-type: square;
+}
+.our_services_tow .architecture_area .portfolio_2 .single_facilities .who_we_area ul li{
+  font-size: 16px;
+  color: #1d99cc;
+  margin: 15px;
 }
 .our_services_tow .architecture_area .portfolio_2 .single_facilities .who_we_area a {
   margin-top: 20px;
