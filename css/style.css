@@ -354,7 +354,7 @@ a:focus, a:hover, .btn:focus, .btn:hover, button:focus, button:hover {
   border-radius: 0px;
   min-width: 190px;
   transition: all 500ms ease-in-out;
-  background: #c92730;
+  background: #fff;
 }
 @media (min-width: 768px) {
   .header_aera .navbar-collapse .navbar-nav.navbar-right li.submenu ul {
