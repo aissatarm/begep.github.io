@@ -2013,8 +2013,11 @@ a:focus, a:hover, .btn:focus, .btn:hover, button:focus, button:hover {
   padding-bottom: 30px;
 }
 .all_contact_info .contact_row .contact_info .location .location_laft {
-  width: 98px;
+  width: 110px;
   float: left;
+}
+.all_contact_info .contact_row .contact_info .location .location_laft a {
+   color: #1d99cc;
 }
 .all_contact_info .contact_row .contact_info .location .address a {
   text-transform: none;
