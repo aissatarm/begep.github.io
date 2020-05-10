@@ -645,6 +645,10 @@ a:focus, a:hover, .btn:focus, .btn:hover, button:focus, button:hover {
   padding-top: 28px;
   padding-bottom: 54px;
 }
+
+.about_us_area .about_row .who_we_area ul h3{
+  color: #1d99cc;
+}
 .about_us_area .about_row .about_client {
   padding-top: 7px;
 }
